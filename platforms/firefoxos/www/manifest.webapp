@@ -1,1 +1,10 @@
-{"launch_path":"/index.html","installs_allowed_from":["*"],"version":"0.0.1","name":"HelloCordova","pkgName":"io.cordova.hellocordova"}
+{
+  "launch_path":"/index.html",
+  "installs_allowed_from":["*"],
+  "version":"0.0.1",
+  "name":"HelloCordova",
+  "pkgName":"io.cordova.hellocordova",
+  "icons": {
+    "128": "img/logo-128.png"
+  }
+}
